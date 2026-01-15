@@ -2,3 +2,4 @@
 **/deploy.sh
 **/*.pem
 **/__pycache__
+cloud_venv
